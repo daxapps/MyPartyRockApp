@@ -61,12 +61,12 @@
 		5F0534861D587C0C0054D97C /* MyPartyRockApp */ = {
 			isa = PBXGroup;
 			children = (
+				5F0534A31D58E3160054D97C /* Files */,
 				5F05349B1D587D810054D97C /* Model */,
 				5F05349A1D587D740054D97C /* View */,
 				5F0534991D587D190054D97C /* Controller */,
 				5F0534871D587C0C0054D97C /* AppDelegate.swift */,
 				5F05348B1D587C0C0054D97C /* Main.storyboard */,
-				5F05349C1D5887490054D97C /* still time.ttf */,
 				5F05348E1D587C0C0054D97C /* Assets.xcassets */,
 				5F0534901D587C0C0054D97C /* LaunchScreen.storyboard */,
 				5F0534931D587C0C0054D97C /* Info.plist */,
@@ -97,6 +97,14 @@
 				5F0534A11D5892C70054D97C /* PartyRock.swift */,
 			);
 			name = Model;
+			sourceTree = "<group>";
+		};
+		5F0534A31D58E3160054D97C /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F05349C1D5887490054D97C /* still time.ttf */,
+			);
+			name = Files;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -335,6 +343,7 @@
 				5F0534981D587C0C0054D97C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

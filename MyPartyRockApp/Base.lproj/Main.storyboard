@@ -82,7 +82,7 @@
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="51" id="eSF-CC-hQa"/>
                                                     </constraints>
-                                                    <fontDescription key="fontDescription" name="StillTime-Regular" family="Still Time" pointSize="30"/>
+                                                    <fontDescription key="fontDescription" name="StillTime-Regular" family="Still Time" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
